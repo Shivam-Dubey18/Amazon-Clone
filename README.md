@@ -14,6 +14,8 @@ Welcome to the Amazon Clone, a project that replicates the UI of the Amazon webs
 
 [Live Demo](https://amazonclone052024.netlify.app/)
 
+![image](https://github.com/Shivam-Dubey18/Amazon-Clone/assets/152854367/05f2e1cb-f68c-4c9d-8234-fdf992803655)
+
 ## Getting Started 🚀
 
 Follow these instructions to set up the project locally.
