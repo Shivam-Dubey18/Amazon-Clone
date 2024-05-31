@@ -26,10 +26,10 @@ Follow these instructions to set up the project locally.
 ### Installation
 
 1. Clone the repository
-   `git clone https://github.com/Shivam-Dubey18/Amazon-Clone`
+   `git clone https://github.com/Shivam-Dubey18/Amazon-Clone.git`
 
 2. Navigate to the project directory
-   `cd AmazonClone`
+   `cd Amazon-Clone`
 
 3. Open `index.html` in your web browser
    - Right-click on `index.html` and select "Open with" followed by your preferred web browser.
